@@ -1,0 +1,18 @@
+{
+  "name": "env-guard",
+  "version": "1.0.0",
+  "description": "One-shot .env validator — check required variables before deploying",
+  "main": "check.js",
+  "scripts": {
+    "start": "node check.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [
+    "env",
+    "validator",
+    "deploy"
+  ],
+  "license": "MIT"
+}
